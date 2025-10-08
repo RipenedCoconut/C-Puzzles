@@ -1,9 +1,9 @@
 # C-Puzzles
 Solutions to simple problems emphasizing efficiency in C. This repository contains different puzzles that attempt to solve problems using only bitwise operators and constants less than 0xFF. Solutions use a few operations as possible and don't use any control structures.
 ## Contianed Files
-**puzzles.c**: contains the puzzle functions and main program for test cases. 
-**puzzles.h**: standard header file with function declarations.
-**tests.c**: test cases for unit testing puzzles.
+**puzzles.c**: contains the puzzle functions and main program for test cases.</br>
+**puzzles.h**: standard header file with function declarations.</br>
+**tests.c**: test cases for unit testing puzzles.</br>
 
 ## What Puzzles?
 ### int logicalShift(int x, int n);
